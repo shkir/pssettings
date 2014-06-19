@@ -1,0 +1,133 @@
+<shortcuts>
+  <shortcut1 name="Fist of the Volcano" buttonimage="/planeshift/materials/spell_fist_of_the_volcano.dds">/cast Fist of the Volcano</shortcut1>
+  <shortcut2 name="Psychic Blow" buttonimage="glyph_mind_icon.dds">/cast Psychic Blow</shortcut2>
+  <shortcut3 name="Sound Deprivation" buttonimage="/planeshift/materials/spell_sound_deprivation.dds">/cast Sound Deprivation</shortcut3>
+  <shortcut4 name="Stone Fist" buttonimage="/planeshift/materials/spell_stone_fist.dds">/cast Stone Fist</shortcut4>
+  <shortcut5 name="Energy Arrow" buttonimage="/planeshift/materials/spell_energy_arrow.dds">/cast Energy Arrow</shortcut5>
+  <shortcut6 name="Taste of Death" buttonimage="glyph_death_icon.dds">/cast Taste of Death</shortcut6>
+  <shortcut7 name="Icy Cage" buttonimage="/planeshift/materials/spell_icy_cage.dds">/cast Icy Cage</shortcut7>
+  <shortcut8 name="Ray of Faith" buttonimage="/planeshift/materials/spell_ray_of_faith.dds">/cast Ray of Faith</shortcut8>
+  <shortcut11 name="Phantasmal Voices" buttonimage="glyph_sound_icon.dds">/cast Phantasmal Voices</shortcut11>
+  <shortcut12 name="Magic Sleep" buttonimage="/planeshift/materials/spell_magic_sleep.dds">/cast Magic Sleep</shortcut12>
+  <shortcut13 name="Mind Paralysation" buttonimage="/planeshift/materials/spell_mind_paralysis.dds">/cast Mind Paralysation</shortcut13>
+  <shortcut14 name="Fear" buttonimage="glyph_fear_icon.dds">/cast Fear</shortcut14>
+  <shortcut15 name="Incredible Weight" buttonimage="glyph_weight_icon.dds">/cast Incredible Weight</shortcut15>
+  <shortcut16 name="Nature Intuition" buttonimage="/planeshift/materials/spell_nature_intuition.dds">/cast Nature Intuition</shortcut16>
+  <shortcut18 name="Analyze Dweomer" buttonimage="/planeshift/materials/spell_analyze.dds">/cast Analyze Dweomer</shortcut18>
+  <shortcut19 name="Dweomer Detection" buttonimage="glyph_divination_icon.dds">/cast Dweomer Detection</shortcut19>
+  <shortcut20 name="Polymorph" buttonimage="/planeshift/materials/glyph_polymorph_icon.dds">/cast Polymorph</shortcut20>
+  <shortcut22 name="Mind Drain" buttonimage="/planeshift/materials/spell_mind_drain.dds">/cast Mind Drain</shortcut22>
+  <shortcut23 name="Hand of Doom" buttonimage="/planeshift/materials/spell_hand_of_doom.dds">/cast Hand of Doom</shortcut23>
+  <shortcut24 name="Lightning Vortex" buttonimage="/planeshift/materials/spell_lightning_vortex.dds">/cast Lightning Vortex</shortcut24>
+  <shortcut25 name="Mephitic Haze" buttonimage="/planeshift/materials/spell_mephitic_haze.dds">/cast Mephitic Haze</shortcut25>
+  <shortcut26 name="Weakness" buttonimage="glyph_weakness_icon.dds">/cast Weakness</shortcut26>
+  <shortcut27 name="Psychic Darts" buttonimage="/planeshift/materials/spell_psychic_darts.dds">/cast Psychic Darts</shortcut27>
+  <shortcut28 name="Freeze" buttonimage="glyph_cold_icon.dds">/cast Freeze</shortcut28>
+  <shortcut29 name="Claws Vortex" buttonimage="/planeshift/materials/spell_claws_vortex.dds">/cast Claws Vortex</shortcut29>
+  <shortcut30 name="Crystal Mirror" buttonimage="/planeshift/materials/spell_crystal_mirror.dds">/cast Crystal Mirror</shortcut30>
+  <shortcut32 name="Darkness" buttonimage="glyph_darkness_icon.dds">/cast Darkness</shortcut32>
+  <shortcut33 name="Choking Gas" buttonimage="glyph_gas_icon.dds">/cast Choking Gas</shortcut33>
+  <shortcut34 name="Dazzling Light" buttonimage="/planeshift/materials/spell_dazzling_light.dds">/cast Dazzling Light</shortcut34>
+  <shortcut35 name="Missile Shower" buttonimage="/planeshift/materials/spell_missile_shower.dds">/cast Missile Shower</shortcut35>
+  <shortcut36 name="Meteor" buttonimage="glyph_meteor_icon.dds">/cast Meteor</shortcut36>
+  <shortcut37 name="Healing Flash" buttonimage="/planeshift/materials/spell_healing_flash.dds">/cast Healing Flash</shortcut37>
+  <shortcut38 name="Rinse" buttonimage="glyph_water_icon.dds">/cast Rinse</shortcut38>
+  <shortcut39 name="Curing Faith" buttonimage="/planeshift/materials/spell_curing_faith.dds">/cast Curing Faith</shortcut39>
+  <shortcut40 name="Dweomer Transfusion" buttonimage="glyph_crystal_icon.dds">/cast Dweomer Transfusion</shortcut40>
+  <shortcut41 name="Cleanse" buttonimage="/planeshift/materials/spell_cleanse.dds">/cast Cleanse</shortcut41>
+  <shortcut42 name="Life Transfusion" buttonimage="/planeshift/materials/spell_life_transfusion.dds">/cast Life Transfusion</shortcut42>
+  <shortcut43 name="Purification" buttonimage="/planeshift/materials/spell_purification.dds">/cast Purification</shortcut43>
+  <shortcut44 name="Recovery" buttonimage="/planeshift/materials/spell_recovery.dds">/cast Recovery</shortcut44>
+  <shortcut45 name="Prayer" buttonimage="glyph_faith_icon.dds">/cast Prayer</shortcut45>
+  <shortcut46 name="Life Infusion" buttonimage="glyph_energy_icon.dds">/cast Life Infusion</shortcut46>
+  <shortcut48 name="Greater Potion of Mana" buttonimage="/planeshift/materials/potionbig01b_icon.dds">/use Greater Potion of Mana</shortcut48>
+  <shortcut49 name="Greater Potion of Healing" buttonimage="/planeshift/materials/potionbig01a_icon.dds">/use Greater Potion of Healing</shortcut49>
+  <shortcut51 name="Relaxing Sleep" buttonimage="glyph_sleep_icon.dds">/cast Relaxing Sleep</shortcut51>
+  <shortcut52 name="Diamond Skin" buttonimage="/planeshift/materials/spell_diamond_skin.dds">/cast Diamond Skin</shortcut52>
+  <shortcut53 name="Daemonic Form" buttonimage="glyph_daemon_icon.dds">/cast Daemonic Form</shortcut53>
+  <shortcut54 name="Lesser Future Sight" buttonimage="/planeshift/materials/spell_lesser_future_sight.dds">/cast Lesser Future Sight</shortcut54>
+  <shortcut55 name="Water Barrier" buttonimage="/planeshift/materials/spell_water_barrier.dds">/cast Water Barrier</shortcut55>
+  <shortcut56 name="Rock Armor" buttonimage="glyph_armor_icon.dds">/cast Rock Armor</shortcut56>
+  <shortcut57 name="Flame Spire" buttonimage="glyph_vortex_icon.dds">/cast Flame Spire</shortcut57>
+  <shortcut58 name="Crystal Aura" buttonimage="/planeshift/materials/spell_crystal_aura.dds">/cast Crystal Aura</shortcut58>
+  <shortcut59 name="Defensive Wind" buttonimage="glyph_air_icon.dds">/cast Defensive Wind</shortcut59>
+  <shortcut60 name="Strength" buttonimage="glyph_might_icon.dds">/cast Strength</shortcut60>
+  <shortcut61 name="Flaming Weapon" buttonimage="/planeshift/materials/spell_flaming_weapon.dds">/cast Flaming Weapon</shortcut61>
+  <shortcut62 name="Electrotouch" buttonimage="glyph_lightning_icon.dds">/cast Electrotouch</shortcut62>
+  <shortcut63 name="Wind Wall" buttonimage="/planeshift/materials/spell_wind_wall.dds">/cast Wind Wall</shortcut63>
+  <shortcut64 name="Dome of Perfection" buttonimage="/planeshift/materials/spell_dome_of_perfection.dds">/cast Dome of Perfection</shortcut64>
+  <shortcut65 name="Magic Light" buttonimage="glyph_light_icon.dds">/cast Magic Light</shortcut65>
+  <shortcut66 name="Ant Weight" buttonimage="/planeshift/materials/spell_ant_weight.dds">/cast Ant Weight</shortcut66>
+  <shortcut67 name="Invigoration" buttonimage="glyph_life_icon.dds">/cast Invigoration</shortcut67>
+  <shortcut70 name="Icy Blast" buttonimage="/planeshift/materials/spell_icy_blast.dds">/cast Icy Blast</shortcut70>
+  <shortcut71 name="Lava Pit" buttonimage="glyph_lava_icon.dds">/cast Lava Pit</shortcut71>
+  <shortcut73 name="Sand Blast" buttonimage="/planeshift/materials/spell_sand_blast.dds">/cast Sand Blast</shortcut73>
+  <shortcut74 name="Flying Stones" buttonimage="/planeshift/materials/spell_flying_stones.dds">/cast Flying Stones</shortcut74>
+  <shortcut75 name="Blades of Chaos" buttonimage="/planeshift/materials/spell_blades_of_chaos.dds">/cast Blades of Chaos</shortcut75>
+  <shortcut76 name="Flame Burst" buttonimage="glyph_fire_icon.dds">/cast Flame Burst</shortcut76>
+  <shortcut77 name="Sonic Blast" buttonimage="/planeshift/materials/spell_sonic_blast.dds">/cast Sonic Blast</shortcut77>
+  <shortcut78 name="Summon Missile" buttonimage="glyph_arrow_icon.dds">/cast Summon Missile</shortcut78>
+  <shortcut137 name="die">/die</shortcut137>
+  <shortcut138 name="harvest">/harvest</shortcut138>
+  <shortcut139 name="Stop Atk">/stopattack</shortcut139>
+  <shortcut140 name="Start Atk">/attack</shortcut140>
+  <shortcut141 name="Greet">/greet</shortcut141>
+  <shortcut142 name="Loot"><![CDATA[/loot roll all 
+/target next npc]]></shortcut142>
+  <shortcut143 name="Next NPC">/target next npc</shortcut143>
+  <shortcut144 name="train">/train</shortcut144>
+  <shortcut145 name="Yield">/yield</shortcut145>
+  <shortcut146 name="Next Player">/target next player</shortcut146>
+  <shortcut147 name="Next NPC">/target next npc</shortcut147>
+  <shortcut148 name="Greet">/greet</shortcut148>
+  <shortcut149 name="Online">/who</shortcut149>
+  <shortcut150 name="Clear target">/target clear</shortcut150>
+  <shortcut151 name="Train">/train</shortcut151>
+  <shortcut152 name="Use">/use</shortcut152>
+  <shortcut153 name="Unstick">/unstick</shortcut153>
+  <shortcut154 name="Equip"><![CDATA[/equip 1 lefthand Platinum Steel Shortsword
+/equip leather cap
+/equip 1 righthand Longsword
+/equip Leather Arms Armor]]></shortcut154>
+  <shortcut155 name="Unequip"><![CDATA[/dequip helm
+/dequip righthand
+/dequip lefthand
+/dequip arms]]></shortcut155>
+  <shortcut156 name="Dig">/dig</shortcut156>
+  <shortcut157 name="Harvest">/harvest wood</shortcut157>
+  <shortcut158 name="Collect"><![CDATA[/pickup
+/target next item]]></shortcut158>
+  <shortcut159 name="Fish">/fish</shortcut159>
+  <shortcut160 name="Shift+F1: Follow"><![CDATA[/pet follow
+/pet stay
+/pet follow]]></shortcut160>
+  <shortcut161 name="Shift+F2: Mount">/mount</shortcut161>
+  <shortcut162 name="F6: unmount">/unmount</shortcut162>
+  <shortcut163 name="F7: dismiss">/pet dismiss</shortcut163>
+  <shortcut164 name="F12: screenshot">/screenshot nogui lossless</shortcut164>
+  <shortcut165 name="Remount" buttonimage="glyph_creature_icon.dds">/mount Bhaalgorn</shortcut165>
+  <shortcut166 name="Remount2" buttonimage="glyph_creature_icon.dds"><![CDATA[/mount Bhaalgorn
+]]></shortcut166>
+  <shortcut167 name="Bhaal" buttonimage="ButtonPetDismiss"><![CDATA[/pet dismiss
+/pet 1, summon
+]]></shortcut167>
+  <shortcut168 name="Mach" buttonimage="ButtonPetDismiss"><![CDATA[/pet dismiss
+/pet 2, summon]]></shortcut168>
+  <shortcut169 name="un">/unmount</shortcut169>
+  <shortcut170 name="FB">/cast Flame Burst</shortcut170>
+  <shortcut171 name="talk"><![CDATA[/tellnpc who are you?
+/tellnpc what do you train?
+/tellnpc give me a quest
+/tellnpc gossip
+/tellnpc about training]]></shortcut171>
+  <shortcut172 name="train">/train</shortcut172>
+  <shortcut173 name="npcmenu">/npcmenu</shortcut173>
+  <shortcut174 name="alchemy">/tellnpc about alchemy</shortcut174>
+  <shortcut175 name="flaming weapon">/cast flaming weapon</shortcut175>
+  <shortcut176 name="asdf"><![CDATA[/dequip lefthand
+/equip Heated sword handle
+/use]]></shortcut176>
+  <shortcut177 name="Vortex">/cast Claws Vortex</shortcut177>
+  <shortcut178 name="Stone fist">/cast Stone fist</shortcut178>
+  <shortcut194 name="search">/target Celeake</shortcut194>
+</shortcuts>
